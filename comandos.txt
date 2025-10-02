@@ -1,0 +1,1 @@
+git commit: Registra los cambios en el historial.
